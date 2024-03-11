@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wisdomtochi&label=Profile%20views&color=0e75b6&style=flat" alt="wisdomtochi" /> </p>
 
-- 🔭 I’m currently working on **Employee Service**
+- 🔭 I’m currently working on a **Voting Application**
 
-- 🌱 I’m currently learning **ASP .NET Web API**
+- 🌱 I’m currently using **ASP .NET Web API** in many of my projects recently 
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
