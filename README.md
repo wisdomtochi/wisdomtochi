@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Wisdom Agbasionye</h1>
-<h3 align="center">A passionate backend developer from Nigeria</h3>
+<h3 align="center">A passionate software engineer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wisdomtochi&label=Profile%20views&color=0e75b6&style=flat" alt="wisdomtochi" /> </p>
 
-- 🔭 I’m currently working on a **Voting Application**
+- 🔭 I’m currently working on a **Task Tracking Application**
 
-- 🌱 I’m currently using **ASP .NET Web API** in many of my projects recently 
+- 🌱 I am using **ASP.Net Web API** and **Blazor** to build the application. 
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wisdomtochi&show_icons=true&locale=en&layout=compact" alt="wisdomtochi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wisdomtochi&" alt="wisdomtochi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wisdomtochi" alt="wisdomtochi" /></p>
